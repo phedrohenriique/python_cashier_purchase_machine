@@ -1,6 +1,4 @@
 
-products_list = []
-
 bread_01 = { 
     'id' : '0001',
     'name' : 'bread 01',
